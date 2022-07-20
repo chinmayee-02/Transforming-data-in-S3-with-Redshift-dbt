@@ -1,4 +1,9 @@
-Welcome to your new dbt project!
+This is a hands on workshop on AWS S3, Redshift, dbt for Data Transformation.
+
+Source: 
+
+https://awsworkshop.io/
+https://dbtlabs.awsworkshop.io/
 
 ### Using the starter project
 
