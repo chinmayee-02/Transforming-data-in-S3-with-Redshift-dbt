@@ -20,5 +20,6 @@ Try running the following commands:
 - Check out [the blog]
 //blog.getdbt.com/) for the latest news on dbt's development and best practices
 
-<img width="1440" alt="Screen Shot 2022-07-11 at 1 06 52 AM" src="https://user-images.githubusercontent.com/48582881/180128213-4c39d381-09c1-4a38-899c-d713b2d8feb5.png">
+<img width="1405" alt="Screen Shot 2022-07-11 at 1 06 52 AM" src="https://user-images.githubusercontent.com/48582881/180128394-308a7ada-0f1d-4b98-884b-6d02fb5c12ce.png">
+
 
